@@ -12,4 +12,4 @@ int main() {
 	return 0;
 }
 ```
-![](media/pages/mainpage/leecode.png)
+![](media/pages/mainpage/leecode.png) 
