@@ -8,5 +8,5 @@
 
 - Think Like A Human 
 
-[GitHub](https://github.com/makospace/)
+[语雀](https://www.yuque.com/dashboard)
 [Get Started](#hello)
